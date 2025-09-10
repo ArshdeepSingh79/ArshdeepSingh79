@@ -82,8 +82,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
 </div>
 <h1></h1>
 <div id="user-content-toc">
