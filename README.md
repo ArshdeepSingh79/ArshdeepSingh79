@@ -1,16 +1,15 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Harmanpreet Singh</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arshdeep Singh</h1></summary>
   </ul>
 </div>
 <h3 align="center">Turning Data into Insights, One Algorithm at a Time</h3>
 <h1></h1>
 
-- 🔭 Currently working on a web scraping project called **TwitterBot** for Twitter data extraction.
 - 🌱 Actively improving **Data Science** skills, focusing on machine learning, deep learning, and data analysis.
 - 👯 Open to collaboration on projects related to **Data Science**, **Data Analysis**, **Machine Learning**, **Deep Learning** and **Web Scraping**. Available for **job opportunities or internships**.
 - 💬 Ask me about **Data**, **Data Science**, **AI**, **ML**, and **DL**. Always up for discussions!
-- 📫 Feel free to reach out to me at [mail](singhharmanpreet21@gmail.com).
+- 📫 Feel free to reach out to me at [mail](ishir.sagoo@gmail.com).
 <h1></h1>
 <div id="user-content-toc">
   <ul align="center">
@@ -24,13 +23,13 @@
   </tr>
   <tr>
     <td>
-      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, <strong>Harmanpreet Singh</strong>, Pankaj Raju, Rohit Rajpoot <br>
+      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), <strong>Arshdeep Singh</strong>, Harmanpreet Singh, Pankaj Raju, Rohit Rajpoot <br>
       <strong>Published:</strong> 16 May 2023 <br>
       <strong>Journal:</strong> Evolving Systems (Published by Springer) <br>
       <a href="https://doi.org/10.1007/s12530-023-09506-z">Link</a>
     </td>
     <td>
-      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), Arshdeep Singh, <strong>Harmanpreet Singh</strong>, Pankaj Raju, Rohit Rajpoot <br>
+      <strong>Authors:</strong> Brijesh Bakariya (Prof.), Krishna Kumar Mohbey (Prof.), <strong>Arshdeep Singh</strong>, Harmanpreet Singh, Pankaj Raju, Rohit Rajpoot <br>
       <strong>Published:</strong> 2 Sep 2023 <br>
       <strong>Journal:</strong> National Academy Science Letters (Published by Springer) <br>
       <a href="https://doi.org/10.1007/s40009-023-01346-4">Link</a>
@@ -96,13 +95,10 @@
   <a href="https://www.youtube.com/@harmanbytes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="45" alt="youtube logo"  /></a>
   <img width="12" />
-  <a href="https://linkedin.com/in/www.linkedin.com/in/harmanbytes" target="_blank">
+  <a href="https://www.linkedin.com/in/arshdeep-singh-5b2528198" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="45" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a href="https://twitter.com/harmanbytes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="45" alt="twitter logo"  /></a>
-  <img width="12" />
-  <a href="singhharmanpreet21@gmail.com" target="_blank">
+  <a href="ishir.sagoo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="45" alt="gmail logo"  /></a>
   <img width="12" />
   <a href="https://discord.gg/https://discord.gg/DWa5WzyttV" target="_blank">
